@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.seguridad_priv_a"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.seguridad_priv_a"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
@@ -71,7 +71,10 @@ dependencies {
     // Para RecyclerView y CardView
     implementation("androidx.recyclerview:recyclerview:1.3.2")
     implementation("androidx.cardview:cardview:1.0.0")
-    
+
+    // Para permisos biométricos
+    implementation ("androidx.biometric:biometric:1.1.0")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

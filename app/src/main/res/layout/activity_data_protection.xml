@@ -90,4 +90,11 @@
 
     </LinearLayout>
 
+    <!-- Agregar botón de autenticación biométrica -->
+    <Button
+        android:id="@+id/btnAuthenticate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Autenticarse con Huella/FaceID"
+        android:layout_marginTop="16dp" />
 </LinearLayout>
