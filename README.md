@@ -4,8 +4,8 @@ Este proyecto implementa un sistema completo de seguridad para una aplicación A
 
 <div align="center">
   <img src="images/img_1.png" width="200" style="margin-right:50px;"/>
-  <img src="images/img_ui_2.png" width="200" style="margin-right:50px;"/>
-  <img src="images/img_ui_3.png" width="200" style="margin-right:50px;"/>
+  <img src="images/img_2.png" width="200" style="margin-right:50px;"/>
+  <img src="images/img_3.png" width="200" style="margin-right:50px;"/>
 </div>
 
 ## 1. Fortalecimiento de la Encriptación
@@ -117,4 +117,3 @@ Se implementa un sistema de **análisis forense** para asegurar que las evidenci
 
 Este sistema de seguridad ofrece una protección avanzada para una aplicación Android, con un enfoque integral que incluye la protección de datos, la autenticación, la verificación de la integridad de los datos, y el cumplimiento de normativas de privacidad como el **GDPR** y **CCPA**. Con estas medidas implementadas, el sistema garantiza que los datos de los usuarios estén protegidos frente a posibles amenazas, al mismo tiempo que cumple con las normativas de seguridad y privacidad más estrictas.
 
-Si tienes alguna pregunta o necesitas más detalles, no dudes en abrir un issue en el repositorio o contactar al equipo de desarrollo.
