@@ -75,6 +75,11 @@ dependencies {
     // Para permisos biométricos
     implementation ("androidx.biometric:biometric:1.1.0")
 
+    // Para Google Play Integrity API
+    implementation ("com.google.android.gms:play-services-integrity:17.0.0")
+
+    implementation("com.auth0:java-jwt:4.4.0")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
